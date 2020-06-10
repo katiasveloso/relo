@@ -1,0 +1,92 @@
+body{
+
+	background-image: linear-gradient(to right, #98FB98, white, #98FB98);
+}
+
+
+ul{
+
+	margin:10;
+	padding: 0;
+	list-style: none;
+	float: left;
+	position: relative
+	left: 500;
+	font-family: Helvetica, sans-serif;
+
+
+
+}
+
+
+ul li{
+
+	float: left;
+}
+
+
+
+ul a{
+
+	display: block;
+	padding: 0 1em;
+	line-height: 2.2em;
+	text-decoration: none;
+	color: black;
+
+	
+}
+
+ul a:hover{
+	color: white;
+	background: black;
+
+}
+
+
+.estilo{
+
+		padding-top: 40px; 
+		padding-left: 400px;
+
+}
+
+#formatacao{
+	padding-top: 30px;
+	padding-left: 420px;
+	/*border: solid 3px black;*/
+	color:white;
+	background-color: green;
+}
+
+
+#borda{
+	/*border: solid 1px black;*/ 
+	position: absolute;
+	left: 200px;
+	right: 200px;
+	background:#F5F5DC;
+	color: black;
+}
+
+.alinhamentolink{
+
+	text-align: center;
+
+
+}
+
+
+#manuais{
+
+	font-family: Verdana,Helvetica, sans-serif, sans-serif;
+	color: red; 
+	text-align: center;
+}
+
+.center{
+
+	padding-left: 300px;
+}
+
+
