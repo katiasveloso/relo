@@ -84,7 +84,8 @@ ul a:hover{
 
 	font-family: Verdana,Helvetica, sans-serif, sans-serif;
 	color: red; 
-	text-align: center;
+	
+	
 }
 
 .center{
@@ -132,4 +133,28 @@ ul a:hover{
 	right: 200px;
 	background:#F5F5DC;
 	color: black;
+}
+
+#faixaip{
+
+	text-align: center;
+	/*border: 2px solid red;*/
+	width: 500px;
+	margin-left: 600px;
+	
+
+}
+
+#bordamanuais{
+	float: left;
+    width: 600px; 
+	
+}
+
+
+#bordafaixaip{
+  float: left;
+
+	
+
 }
