@@ -148,9 +148,21 @@ ul a:hover{
 #bordamanuais{
 	float: left;
     width: 600px; 
-	
+    
+}
+   
+a:link{
+  	text-decoration: none;
+
+
+
 }
 
+}
+
+a:hover{
+	color: red;
+}
 
 #bordafaixaip{
   float: left;
